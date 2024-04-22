@@ -65,6 +65,6 @@ as a very last step.
 ### Overal BOM
 - 6x M5x10 BHCS
 - 6x M5 T-Nut for 3030
-- 2x M3x16 SHCS
+- 2x M3x25 SHCS
 - 2x M3 Threaded Insert (standard "Voron")
 
